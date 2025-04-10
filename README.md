@@ -6,12 +6,15 @@ This project created using React js library and bootstrap framwork
 
 ## 🚀 App Screenshots
 
-| Feature       | Screenshot |
+## 📸 App Screenshots
+
+| Page         | Screenshot |
 |--------------|------------|
-| 🏠 Home Page  | ![Home Page](screenshots/home.png) |
-| 🔐 Login Page | ![Login Page](screenshots/login.png) |
-| 📱 Dashboard  | ![Dashboard](screenshots/dashboard.png) |
-| 🛒 Checkout   | ![Checkout](screenshots/checkout.png) |
+| 🏠 Home Page  | ![Home Page](output/homePage.png) |
+| 🔐 Login Page | ![Login Page](output/loginPage.png) |
+| ✍️ Sign In Page | ![Sign In Page](output/signinPage.png) |
+| 🙍‍♂️ Profile Page | ![Profile Page](output/profilePage.png) |
+
 
 
 
