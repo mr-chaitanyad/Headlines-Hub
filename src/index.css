@@ -5,9 +5,43 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: #f4f4f4;
+  justify-content: center;
+  align-items: center;
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+/* styles.css */
+
+
+
+.App {
+  width: 250px;
+  justify-self: center;
+  background: white;
+  align-self: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+
+
+.CCard{
+  margin-top: 100px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:20px;
+}
+
+
+.page-content {
+  padding-top: 50px; /* or whatever height your navbar is */
+  min-height: 80vh;
 }
