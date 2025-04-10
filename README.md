@@ -10,10 +10,10 @@ This project created using React js library and bootstrap framwork
 
 | Page         | Screenshot |
 |--------------|------------|
-| 🏠 Home Page  | <img src="output/homePage.png" width="500" height="300"/>|
-| 🔐 Login Page | <img src="output/loginPage.png" width="500" height="300"/>|
-| ✍️ Sign In Page |<img src="output/signinPage.png" width="500" height="300"/>|
-| 🙍‍♂️ Profile Page |<img src="output/profilePage.png" width="500" height="300"/> |
+| 🏠 Home Page  | <img src="output/homePage.png" width="600" height="300"/>|
+| 🔐 Login Page | <img src="output/loginPage.png" width="600" height="300"/>|
+| ✍️ Sign In Page |<img src="output/signinPage.png" width="600" height="300"/>|
+| 🙍‍♂️ Profile Page |<img src="output/profilePage.png" width="600" height="300"/> |
 
 
 
