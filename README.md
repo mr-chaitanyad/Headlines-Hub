@@ -1,4 +1,4 @@
-# Headlines Hub  
+![image](https://github.com/user-attachments/assets/c962da78-3567-4ef0-aaef-20f6ed603f9f)# Headlines Hub  
 
 This project created using React js library and bootstrap framwork
 
@@ -10,12 +10,18 @@ This project created using React js library and bootstrap framwork
 
 | Page         | Screenshot |
 |--------------|------------|
-| 🏠 Home Page  | <img src="output/homePage.png" width="600" height="300"/>|
-| 🔐 Login Page | <img src="output/loginPage.png" width="600" height="300"/>|
-| ✍️ Sign In Page |<img src="output/signinPage.png" width="600" height="300"/>|
-| 🙍‍♂️ Profile Page |<img src="output/profilePage.png" width="600" height="300"/> |
+| 🏠 Home Page  | <img src="output/homePage.png" width="400" height="200"/>|
+| 🔐 Login Page | <img src="output/loginPage.png" width="400" height="200"/>|
+| ✍️ Sign In Page |<img src="output/signinPage.png" width="400" height="200"/>|
+| 🙍‍♂️ Profile Page |<img src="output/profilePage.png" width="400" height="200"/> |
 
 
+## 🗃️ MongoDB Output
+
+| Description                | Screenshot |
+|---------------------------|------------|
+| ✅ Console Output          | <img src="output/mongoCmd.png" width="500"/> |
+| 📊 MongoDB Compass View   | <img src="screenshots/mongodbDB.png" width="500"/> |
 
 
 
