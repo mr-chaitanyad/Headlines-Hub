@@ -21,7 +21,7 @@ This project created using React js library and bootstrap framwork
 | Description                | Screenshot |
 |---------------------------|------------|
 | ✅ Console Output          | <img src="output/mongoCmd.png" width="500"/> |
-| 📊 MongoDB Compass View   | <img src="screenshots/mongoDB.png" width="500"/> |
+| 📊 MongoDB Compass View   | <img src="output/mongoDB.png" width="500"/> |
 
 
 
